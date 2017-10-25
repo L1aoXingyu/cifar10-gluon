@@ -129,5 +129,5 @@ class DenseNet(nn.HybridBlock):
             global_pool=1,
             pool_type='avg',
             kernel=(8, 8))
-        out = F.log_softmax(self.fc(out))
+        out = self.fc(out)
         return out
