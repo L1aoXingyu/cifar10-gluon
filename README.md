@@ -3,7 +3,7 @@
 
 This repository is about resnet164 and densenet architecture's gluon implement for cifar10 dataset in kaggle.
 
-![1](https://zh.gluon.ai/_images/kaggle_cifar10.png)
+![](https://ws4.sinaimg.cn/large/006tKfTcly1fl9tro18vxj30m80ai0ue.jpg)
 
 I just use mxnet/gluon to implement all of these models, and the single model is near rank1 in leader board, ensemble model is over rank1. All those ideas come from [gluon community](https://discuss.gluon.ai/t/topic/1545/451), welcome to join big family of gluon.
 
